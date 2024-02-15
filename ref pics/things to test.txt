@@ -1,0 +1,1 @@
+send friend req, then have the other send one back before accepting - two diff requests or one?, what happens when they're cancelled/declined
